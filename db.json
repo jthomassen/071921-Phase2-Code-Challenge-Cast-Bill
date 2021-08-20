@@ -1,15 +1,6 @@
 {
   "bills": [
     {
-      "id": 101,
-      "name": "Captain Bill Murray",
-      "health": "pretty good",
-      "salary": 1000000,
-      "rating": 8,
-      "catchphrase": "I'm a nut, but not just a nut.",
-      "photo": "https://www.fillmurray.com/200/300"
-    },
-    {
       "id": 102,
       "name": "Bill Murray Tangled",
       "health": "awful",
